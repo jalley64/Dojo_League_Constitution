@@ -39,12 +39,6 @@ __Jacob Alley__
 
 <br>
 
-### Co Commissioners ###
-__Koterba90__
-> jeff.koterba@yahoo.com
-
-<br>
-
 ### Commissioner Site Powers ###
 - The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams. 
 <br>
@@ -62,6 +56,8 @@ __Koterba90__
 - In order to nominate a rule change, simply propose it through the appropriate channel. If it gets endorsed (by adding an emoji showing your affirmation) by 3 more league members it will be on the docket for the end of the year summit.
 #### Passing A Rule ####
 - At the season end summit, we will vote on any nominated proposals. The commissioner's vote counts as 1.5 votes (essentially a tiebreaker). Majority is needed for a vote to pass.
+#### Year Delay ####
+-  Any vote that fails to hit 10/12 will not go into effect until the following year. If it hits 10 or more votes out of 12, then it will be implemented in the immediate following season.
 <br>
 
 ### League Summit ### 
@@ -71,6 +67,8 @@ __Koterba90__
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid. Colluders will not be given infractions, and will be immediately removed.**
 
+### Tanking ###
+- Tanking is not tolerated. Trading all of your players away so that your roster is worse, netting you a better pick, is not considered tanking. The argument that "it is my money and I can do what I want with it" does not carry water, as your actions affect other league members and what happens with their money. Draft standings will be the inverse of the Max Potential Points For. Players are still expected to field competitive lineups, this includes not starting players on byes or with injuries. I understand that picking starting lineups is subjective and part of the allure of the game, however you are not permitted to field an intentionally uncompetitive lineup. I will be willing to give the benefit of the doubt on this issue unless it becomes a trend. This also will be a judgment call that I will do my best to be fair and consistent with. Finally, I commission a lot of leagues and depend on you guys to help me enforce these rules. I may miss when one team starts someone on bye, I need your help reporting these issues to me so that I can ensure a competitive league. Violators of these rules will receive a warning the first time, followed by loss of 1st round draft pick, followed by removal from the league and forfeiture of buyin.
 <br><br>
 
 ## __Section II - League Dues__ ##
@@ -104,9 +102,9 @@ If a team does not pay their dues by the designated date they are not eligible t
    RB | 2 | No Limit
    WR | 2 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 3 | No Limit
+   FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
-   BE | 11 | No Limi
+   BE | 15 | No Limi
    IR | 2 | No Limit
 
 ### Offseason Rosters (Post-draft Rosters) ###
@@ -116,7 +114,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    RB | 2 | No Limit
    WR | 2 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 3 | No Limit
+   FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 15 | No Limi
    IR | 2 | No Limit
@@ -131,14 +129,14 @@ If a team does not pay their dues by the designated date they are not eligible t
 - FAAB dollars are tradeable
 - There is a one day waiting period for waivers to clear
 - Free agency locks a week after the championship ends, through the end of the rookie draft. 
-
+- Waivers clear daily at 12pm
 
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected file a report with the commissioner.
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as the first playoff game starts.
 - Draft picks up to 2 years in the future are tradable.
-
+- You must have paid that years fee for any draft picks that you trade. So if you trade a draft pick that is for the year 2022, then you must have paid the league dues for the 22 season.
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
@@ -153,9 +151,10 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-6 will be assigned in inverse order of the regular season standings.
-- Picks 7-12 will be assigned in inverse order of the postseason standings
-- An additional pick (1.13) will be awarded to the winner of the consolation bracket
+- Picks 1-6 will be assigned in inverse order of the MaxPF regular season standings (note this uses potential points).
+- Picks 7-8 will be assigned in inverse order of the MaxPF regular season standings by the two teams who lost in the first round of the playoffs.
+- Picks 9-12 will be the inverse of the semi final bracket final standings.
+- An additional pick (2.13) will be awarded to the winner of the consolation bracket
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
@@ -164,6 +163,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Each day the draft will last from 9AM to 1AM est with each team having 4 hours per pick.
 - Trading draft picks is allowed during the rookie draft
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
+- Rookie drafts will include all Free Agents and incoming rookies.
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
