@@ -55,7 +55,7 @@ __Jacob Alley__
 #### Nomination ####
 - In order to nominate a rule change, simply propose it through the appropriate channel. If it gets endorsed (by adding an emoji showing your affirmation) by 3 more league members it will be on the docket for the end of the year summit.
 #### Passing A Rule ####
-- At the season end summit, we will vote on any nominated proposals. The commissioner's vote counts as 1.5 votes (essentially a tiebreaker). Majority is needed for a vote to pass.
+- At the season end summit, we will vote on any nominated proposals. 8/12 is needed for a vote to pass with a 1 year delay. 10/12 will pass it instantly.
 #### Year Delay ####
 -  Any vote that fails to hit 10/12 will not go into effect until the following year. If it hits 10 or more votes out of 12, then it will be implemented in the immediate following season.
 <br>
@@ -105,7 +105,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 15 | No Limi
-   IR | 2 | No Limit
+   IR | 4 | No Limit
 
 ### Offseason Rosters (Post-draft Rosters) ###
    Position | Starters | Maximum
@@ -117,7 +117,13 @@ If a team does not pay their dues by the designated date they are not eligible t
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 15 | No Limi
-   IR | 2 | No Limit
+   IR | 4 | No Limit
+   
+ ### Taxi Squad ###
+   - 4 taxi squad spots
+   - rookies only
+   - After the season has started, a player removed from the taxi squad cannot be put back on.
+   - no poaching
 
 ## __Section V - Free Agency & Trading__ ##
 
@@ -218,9 +224,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ## __Section XI - Leaving the League__ ##
 ### Leaving the League ###
-- In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2019 and 2020 dues. You decide you want to leave the league. You must notify the commissioner that 2020 will be your last year by late March 2020 (when the 2021 payment is due). 
-- During that final year, you will not be permitted to trade any future draft picks, whether receiving or sending.
-- If you are not willing to play the final season, you forfeit the money that you have paid.
+- We require all teams pay 1 year in advance, if they leave the league then they forfeit the money that was paid for that year. This is to help ensure that we find someone to take over for the orphan.
 - In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
 
 ### Missing Teams ###
