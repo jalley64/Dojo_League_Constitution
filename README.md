@@ -187,8 +187,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Championship Bracket ###
 - The two teams with the best regular season records will be assigned to the top two seeds, and receive a first round bye.
-- The next four teams will be assigned their playoff seeding spot based on regular season record.
-- The seedings will reseed so that the number 1 seed gets the best possible semi-final matchup.
+- The next four teams will be assigned their playoff seeding spot based on regular season record. 
 
 ### Consolation Bracket ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
